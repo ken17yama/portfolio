@@ -1,0 +1,21 @@
+<svg id="レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 121.32">
+<defs>
+<style>
+.cls-1,
+.cls-2{
+fill:none;
+stroke:#000;
+stroke-linecap:round;
+stroke-linejoin:round;
+}
+.cls-1{stroke-width:19px;}
+.cls-2{stroke-width:16px;}
+</style></defs>
+<title>welcome</title>
+<path class="cls-1 path path1" d="M42.5,64.82s-33,12-33-21,29-35,42-33,15,24,15,101l48-96s2-8,9-6v102l59-102h21"/>
+<path class="cls-2 path path2" d="M182.5,83.82l27-1s12.5,1.5,12.5-12.5-15-12-15-12-15-1-24,18,3,30,15,30h29"/><polyline class="cls-1 path path3" points="286.5 9.82 247.5 105.82 270.5 105.82"/>
+<path class="cls-1 path path4" d="M333,75.32s4-17-14-17-25,18-25,24-.5,23.5,16.5,23.5h26"/>
+<path class="cls-1 path path5" d="M391,58.32s-25-1-30,24c-4.5,22.5,13.5,24.5,13.5,24.5s18,5,28-16S401.5,58.32,391,58.32Z"/>
+<path class="cls-1 path path6" d="M448.5,57.82l-19,48s20-53,43-45c17,7-4,45-4,45s10-46,44-45c16,0-3,45-3,45h23"/>
+<path class="cls-2 path path7" d="M557.5,83.82l27-1s12.5,1.5,12.5-12.5-15-12-15-12-15-1-24,18,3,30,15,30h29"/>
+</svg>
