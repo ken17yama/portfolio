@@ -1,20 +1,20 @@
-// $(window).load(function () {
-//   //ローディング
-//   $(".case").css("display", "block");
-//   $("#load")
-//     .delay(1500)
-//     .queue(function (next) {
-//       $(this).css("opacity", "0");
-//       $('#container').removeClass('stop');
-//       next();
-//     });
-//   $("#load")
-//     .delay(1000)
-//     .queue(function (next) {
-//       $(this).css("display", "none");
-//       next();
-//     });
-// });
+$(window).load(function () {
+  //ローディング
+  $(".case").css("display", "block");
+  $("#load")
+    .delay(1500)
+    .queue(function (next) {
+      $(this).css("opacity", "0");
+      $('#container').removeClass('stop');
+      next();
+    });
+  $("#load")
+    .delay(1000)
+    .queue(function (next) {
+      $(this).css("display", "none");
+      next();
+    });
+});
 
 $(function () {
   // パララックス
